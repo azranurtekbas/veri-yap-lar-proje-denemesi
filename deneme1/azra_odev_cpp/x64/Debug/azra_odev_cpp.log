@@ -1,0 +1,216 @@
+﻿  main.cpp
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(4,1): error C2236: unexpected token 'class'. Did you forget a ';'?
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(5,1): error C2059: syntax error: '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(5,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(5,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(12,19): error C2061: syntax error: identifier 'SatirListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(14,15): error C2143: syntax error: missing ';' before '*'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(14,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(14,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(5,1): error C2011: 'SatirDugum': 'class' type redefinition
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(13,13): error C2061: syntax error: identifier 'SatirListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(16,28): error C2061: syntax error: identifier 'SatirListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(17,14): error C2143: syntax error: missing ';' before '*'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(17,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(18,4): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\main.cpp(14,40): error C2061: syntax error: identifier 'YoneticiListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\main.cpp(23,9): error C2065: 'SatirListe': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\main.cpp(23,21): error C2065: 'nextListe': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\main.cpp(23,37): error C2061: syntax error: identifier 'SatirListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\main.cpp(26,11): error C2065: 'nextListe': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\main.cpp(26,27): error C2065: 'nextListe': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\main.cpp(28,29): error C2065: 'nextListe': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\main.cpp(40,5): error C3861: 'CreateSatirDugum': identifier not found
+  SatirDugum.cpp
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(4,1): error C2236: unexpected token 'class'. Did you forget a ';'?
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(5,1): error C2059: syntax error: '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(5,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(5,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(12,19): error C2061: syntax error: identifier 'SatirListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(14,15): error C2143: syntax error: missing ';' before '*'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(14,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(14,29): error C2238: unexpected token(s) preceding ';'
+  SatirListe.cpp
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(2,7): error C2059: syntax error: 'using namespace'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(5,1): error C2011: 'SatirDugum': 'class' type redefinition
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(5,1): error C2653: 'SatirListe': is not a class or namespace name
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(6,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(7,5): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(8,5): error C2065: 'elemanSayisi': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(9,5): error C2065: 'ortalama': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(10,1): warning C4508: 'SatirListe': function should return a value; 'void' return type assumed
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(12,1): error C2653: 'SatirListe': is not a class or namespace name
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(13,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(14,22): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(18,14): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(20,7): warning C4150: deletion of pointer to incomplete type 'SatirDugum'; no destructor called
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(22,1): warning C4508: '{dtor}': function should return a value; 'void' return type assumed
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(24,6): error C2653: 'SatirListe': is not a class or namespace name
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(26,48): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(27,8): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(29,9): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(33,25): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(35,16): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(37,20): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(40,11): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(41,16): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(43,5): error C2065: 'elemanSayisi': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(45,5): error C2653: 'SatirListe': is not a class or namespace name
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(47,8): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(48,13): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(51,6): error C2653: 'SatirListe': is not a class or namespace name
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(53,8): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(53,18): error C2562: 'cikar': 'void' function returning a value
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(51,18): message : see declaration of 'cikar'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(55,8): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(57,16): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(57,19): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(58,9): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(62,24): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(64,16): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(65,17): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(67,17): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(68,10): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(70,5): error C2065: 'elemanSayisi': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(73,6): error C2653: 'SatirListe': is not a class or namespace name
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(75,30): error C3861: 'dugumGetir': identifier not found
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(79,45): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(80,52): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(82,19): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(84,17): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(85,17): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(88,24): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(90,13): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(92,5): error C2065: 'elemanSayisi': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(96,6): error C2653: 'SatirListe': is not a class or namespace name
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(98,28): error C3861: 'dugumGetir': identifier not found
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(104,43): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(105,38): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(107,34): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(108,42): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(110,3): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(111,3): warning C4150: deletion of pointer to incomplete type 'SatirDugum'; no destructor called
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(112,3): error C2065: 'elemanSayisi': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(118,13): error C2653: 'SatirListe': is not a class or namespace name
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(120,22): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(125,16): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(132,33): error C2061: syntax error: identifier 'SatirListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(132,10): error C2805: binary 'operator <<' has too few parameters
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(138,22): error C2065: 'liste': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(142,41): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(142,62): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(148,6): error C2653: 'SatirListe': is not a class or namespace name
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(150,21): error C2065: 'ilk': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(154,27): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\SatirListe.cpp(155,16): error C2027: use of undefined type 'SatirDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirDugum.hpp(4,7): message : see declaration of 'SatirDugum'
+  YoneticiDugum.cpp
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(4,1): error C2236: unexpected token 'class'. Did you forget a ';'?
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(5,1): error C2059: syntax error: '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(5,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(5,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(12,19): error C2061: syntax error: identifier 'SatirListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(14,15): error C2143: syntax error: missing ';' before '*'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(14,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(14,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiDugum.cpp(3,16): error C7550: 'YoneticiDugum::{ctor}': the qualified name in this context names a constructor, not a type
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiDugum.cpp(3,30): error C2065: 'SatirListe': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiDugum.cpp(3,42): error C2065: 'SatirListesi': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiDugum.cpp(4,1): error C2059: syntax error: '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiDugum.cpp(4,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiDugum.cpp(4,1): error C2447: '{': missing function header (old-style formal list?)
+  YoneticiListe.cpp
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(4,1): error C2236: unexpected token 'class'. Did you forget a ';'?
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(5,1): error C2059: syntax error: '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(5,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\SatirListe.hpp(5,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(12,19): error C2061: syntax error: identifier 'SatirListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(14,15): error C2143: syntax error: missing ';' before '*'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(14,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(14,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(13,13): error C2061: syntax error: identifier 'SatirListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(16,28): error C2061: syntax error: identifier 'SatirListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(17,14): error C2143: syntax error: missing ';' before '*'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(17,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(18,4): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(40,36): error C2761: 'void YoneticiListe::ekle(void)': redeclaration of member is not allowed
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(40,26): error C2065: 'SatirListe': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(40,38): error C2065: 'nextListe': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(41,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(42,49): error C2065: 'nextListe': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(43,5): error C2059: syntax error: 'if'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(44,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(44,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(47,5): error C2059: syntax error: 'else'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(48,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(48,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(86,17): error C2143: syntax error: missing ';' before '++'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(86,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(86,17): error C2059: syntax error: '++'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(87,1): error C2059: syntax error: '}'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(87,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(89,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(89,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(112,40): error C2061: syntax error: identifier 'SatirListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(119,52): error C2065: 'veri': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(156,1): error C2556: 'YoneticiListe *YoneticiListe::dugumGetir(int)': overloaded function differs only by return type from 'YoneticiDugum *YoneticiListe::dugumGetir(int)'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(24,19): message : see declaration of 'YoneticiListe::dugumGetir'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(155,31): error C2371: 'YoneticiListe::dugumGetir': redefinition; different basic types
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(24,19): message : see declaration of 'YoneticiListe::dugumGetir'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(157,24): error C2440: 'initializing': cannot convert from 'YoneticiDugum *' to 'YoneticiListe *'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(157,24): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(162,18): error C2039: 'next': is not a member of 'YoneticiListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(7,7): message : see declaration of 'YoneticiListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(181,32): error C2065: 'dugumGetir': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(181,30): error C2440: 'initializing': cannot convert from 'YoneticiDugum *(__cdecl YoneticiListe::* )(int)' to 'YoneticiDugum *'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(181,30): message : There is no context in which this conversion is possible
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(192,32): error C2065: 'dugumGetir': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(192,30): error C2440: 'initializing': cannot convert from 'YoneticiDugum *(__cdecl YoneticiListe::* )(int)' to 'YoneticiDugum *'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(192,30): message : There is no context in which this conversion is possible
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(201,21): error C2039: 'nextAdresYazdir': is not a member of 'YoneticiListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(7,7): message : see declaration of 'YoneticiListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(203,43): error C2065: 'cizimBaslangicSirasi': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(203,32): error C3861: 'dugumGetir': identifier not found
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(204,17): error C3861: 'cizilecekDugumSayisiHesapla': identifier not found
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(207,25): error C2065: 'satirGenislik': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(214,31): error C2065: 'dugumGetir': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(214,29): error C2440: 'initializing': cannot convert from 'YoneticiDugum *(__cdecl YoneticiListe::* )(int)' to 'YoneticiDugum *'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(214,29): message : There is no context in which this conversion is possible
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(218,54): error C2039: 'SatirListesi': is not a member of 'YoneticiDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiDugum.hpp(7,7): message : see declaration of 'YoneticiDugum'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(223,5): error C2653: 'yoneticiListe': is not a class or namespace name
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(225,15): error C2065: 'cizilecekDugumSayisi': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(227,6): error C2065: 'cizimBaslangicSirasi': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(227,27): error C2065: 'cizilecekDugumSayisi': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(229,26): error C2065: 'cizimBaslangicSirasi': undeclared identifier
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\src\YoneticiListe.cpp(244,11): error C2039: 'nextAdresYazdir': is not a member of 'YoneticiListe'
+C:\Users\Azra Nur TEKBAŞ\Desktop\veri yapıları\include\YoneticiListe.hpp(7,7): message : see declaration of 'YoneticiListe'
+  Generating Code...
